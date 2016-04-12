@@ -58,7 +58,7 @@ export REPO=
 #	N50.py
 #	reprint.genome.py
 
-#	LTRharvest/LTRdigest filtering scripts (courtesy of Ning Jiang): Will hopefully be published soon.
+#	LTRharvest/LTRdigest filtering scripts (courtesy of Ning Jiang): Will hopefully be published soon
 
 #	Misc:
 #	assemblathon_stats.pl : http://korflab.ucdavis.edu/datasets/Assemblathon/Assemblathon2/Basic_metrics/assemblathon_stats.pl
