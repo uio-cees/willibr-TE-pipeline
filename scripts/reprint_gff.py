@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 """
-Purpose: To rewrite text files, replacing alias sequences with original sequences,
-using the .table file created during pipeline.
-
 William Brynildsen
 """
 
